@@ -1,1 +1,1 @@
-sickcodes/docker-osx:monterey
+sickcodes/docker-osx:latest
