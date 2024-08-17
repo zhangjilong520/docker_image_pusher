@@ -1,1 +1,1 @@
-sickcodes/docker-osx:big-sur
+sickcodes/docker-osx:monterey
